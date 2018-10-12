@@ -1,24 +1,17 @@
-# README
+## HOW TO
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+```
+$ bundle install --without production
+```
 
-Things you may want to cover:
+```
+$ bin/rails db:migrate
+```
 
-* Ruby version
+```
+$ bin/rails test
+```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+$ bin/rails s
+```
