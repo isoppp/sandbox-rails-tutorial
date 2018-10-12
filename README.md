@@ -1,16 +1,30 @@
 ## HOW TO
 
+bundle install
+
 ```
 $ bundle install --without production
 ```
+
+db migrate
 
 ```
 $ bin/rails db:migrate
 ```
 
+test
+
 ```
 $ bin/rails test
 ```
+
+watch & run test
+
+```
+$ bundle exec guard
+```
+
+run server
 
 ```
 $ bin/rails s
