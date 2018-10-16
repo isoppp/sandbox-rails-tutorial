@@ -3,7 +3,7 @@
 bundle install
 
 ```
-$ bundle install --without production
+$ bundle install --path vendor/bundle --without production
 ```
 
 db migrate
