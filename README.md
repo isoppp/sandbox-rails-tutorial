@@ -1,5 +1,7 @@
 ## HOW TO
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/isoppp/sandbox-rails-tutorial.svg)](https://greenkeeper.io/)
+
 bundle install
 
 ```
